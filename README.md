@@ -1,3 +1,3 @@
 # Mutiprocess_Bug
-Mutiprocess_Bug
-Mutiprocess 并行错误
+Multiprocess_Bug
+Mutliprocess 并行错误
